@@ -44,11 +44,11 @@ console.log(MyStrongBelief.charAt(5))
 
 
 //finding the lenght
-console.log(MyFirstName.lenght)
-console.log(MyLastName.lenght)
-console.log(MyCurrentLocation.lenght)
-console.log(MyLocalGovt.lenght)
-console.log(MyStrongBelief.lenght)
+console.log(MyFirstName.length)
+console.log(MyLastName.length)
+console.log(MyCurrentLocation.length)
+console.log(MyLocalGovt.length)
+console.log(MyStrongBelief.length)
 
 //turning all to capital letter 
 console.log(MyFirstName.toUpperCase())
